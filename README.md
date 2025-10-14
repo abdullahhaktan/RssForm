@@ -53,13 +53,6 @@ RssForm, popüler Türk haber sitelerinden ve kullanıcı tarafından girilen RS
 
 ---
 
-## 📸 Ekran Görüntüleri
-
-<img width="895" height="437" alt="Ekran görüntüsü 1" src="https://github.com/user-attachments/assets/ff35d725-ce86-42e8-8734-69e451273307" />
-<img width="779" height="421" alt="Ekran görüntüsü 2" src="https://github.com/user-attachments/assets/b8e016c6-debc-4f25-a3dd-d9c64752e9fc" />
-
----
-
 [EN]
 
 # RssForm
@@ -112,7 +105,7 @@ RssForm is a Windows Form application that fetches up-to-date news headlines fro
 
 ---
 
-## 📸 Screenshots
+## 📸 Ekran Görüntüleri
 
-<img width="895" height="437" alt="Screenshot 1" src="https://github.com/user-attachments/assets/ff35d725-ce86-42e8-8734-69e451273307" />
-<img width="779" height="421" alt="Screenshot 2" src="https://github.com/user-attachments/assets/b8e016c6-debc-4f25-a3dd-d9c64752e9fc" />
+<img width="895" height="437" alt="Ekran görüntüsü 1" src="https://github.com/user-attachments/assets/ff35d725-ce86-42e8-8734-69e451273307" />
+<img width="779" height="421" alt="Ekran görüntüsü 2" src="https://github.com/user-attachments/assets/b8e016c6-debc-4f25-a3dd-d9c64752e9fc" />
